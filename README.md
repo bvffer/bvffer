@@ -1,6 +1,10 @@
+<h1 align="left">Hello there!</h1>
+
+###
+
 <br clear="both">
 
-<h4 align="left">Hello there! I'm Ali, a web developer with experience in creating dynamic and responsive web applications. I enjoy turning ideas into interactive and user-friendly digital experiences.<br><br>🌐 Skills: HTML, CSS, JavaScript, React, Vue.js, Angular, Bootstrap.<br>📚 Learning: Currently expanding my knowledge in web development by exploring more frameworks, libraries, and tools.<br>💡 Interests: Web design, front-end development, and discovering new web technologies.<br>📂 Projects: Check out my repositories for examples of my work, including [specific project names or types, e.g., "e-commerce platforms" or "portfolio websites"].<br>🎯 Learning Goals: I'm always looking to improve my skills and stay updated with the latest trends in web development.</h4>
+<h4 align="left">I'm Ali, a web developer with experience in creating dynamic and responsive web applications. I enjoy turning ideas into interactive and user-friendly digital experiences.<br><br>🌐 Skills: HTML, CSS, JavaScript, React, Vue.js, Angular, Bootstrap.<br>📚 Learning: Currently expanding my knowledge in web development by exploring more frameworks, libraries, and tools.<br>💡 Interests: Web design, front-end development, and discovering new web technologies.<br>📂 Projects: Check out my repositories for examples of my work, including [specific project names or types, e.g., "e-commerce platforms" or "portfolio websites"].<br>🎯 Learning Goals: I'm always looking to improve my skills and stay updated with the latest trends in web development.</h4>
 
 ###
 
@@ -59,5 +63,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<h2 align="left">"The only way to do great work is to love what you do." — Steve Jobs</h2>
 
 ###
