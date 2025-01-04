@@ -9,14 +9,14 @@
 ###
 
 <div align="center">
-  <img height="220" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bc47194c-4389-40b2-b130-e3de76db4ea0/df5uscm-3f16c5f4-c591-4168-bcd8-037911bbf732.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JjNDcxOTRjLTQzODktNDBiMi1iMTMwLWUzZGU3NmRiNGVhMFwvZGY1dXNjbS0zZjE2YzVmNC1jNTkxLTQxNjgtYmNkOC0wMzc5MTFiYmY3MzIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ov_nko12J3DvSJmTe3nnhRt2S_Nm5Wl3EODBK-Z6omc"  />
+  <img height="272" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjR6OWlhNWgwNHB1Y2V3c2wxZmJyNGFmYzl0ZGVsa3Zrd29zZ2p5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xWMPYx55WNhX136T0V/giphy.gif"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
@@ -38,17 +38,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-</div>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
@@ -68,6 +58,22 @@
 
 <br clear="both">
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+</div>
+
+###
+
+<br clear="both">
+
 <h2 align="left">"The only way to do great work is to love what you do." — Steve Jobs</h2>
+
+###
+
+<img src="https://raw.githubusercontent.com/Ali-Hegazy-Ai /Ali-Hegazy-Ai /output/snake.svg" alt="Snake animation" />
 
 ###
