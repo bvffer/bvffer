@@ -11,9 +11,7 @@
 
 <br clear="both" />
 
-<div align="center">
-  <img height="272" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjd2OTMycmlvdnRuNTZna2Y3NGIyYW4wOHJiaHRkY3RvMGVzNDNkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k81NasbqkKA5HSyJxN/giphy.gif" alt="Developer gif" />
-</div>
+
 
 <br clear="both" />
 
