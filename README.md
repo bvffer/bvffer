@@ -1,81 +1,62 @@
-<h1 align="left">Hello there!</h1>
+<h1 align="left">Hello there! 👋</h1>
 
-###
+<h4 align="left">
+  I'm <strong>Ali</strong>, a web developer passionate about crafting dynamic, responsive web applications.<br><br>
+  🌐 <strong>Skills:</strong> HTML, CSS, JavaScript, React, Vue.js, Angular, Bootstrap<br>
+  📚 <strong>Learning:</strong> Continuously exploring new frameworks, libraries, and tools in web development<br>
+  💡 <strong>Interests:</strong> Front-end development, UI/UX design, and the latest web technologies<br>
+  📂 <strong>Projects:</strong> Visit my <a href="https://ali-hegazy.netlify.app/" target="_blank">portfolio website</a> to see my work, including portfolio websites and front-end applications<br>
+  🎯 <strong>Goals:</strong> Always striving to level up my skills and stay ahead in the ever-evolving world of web development
+</h4>
 
-<br clear="both">
-
-<h4 align="left">I'm Ali, a web developer with experience in creating dynamic and responsive web applications. I enjoy turning ideas into interactive and user-friendly digital experiences.<br><br>🌐 Skills: HTML, CSS, JavaScript, React, Vue.js, Angular, Bootstrap.<br>📚 Learning: Currently expanding my knowledge in web development by exploring more frameworks, libraries, and tools.<br>💡 Interests: Web design, front-end development, and discovering new web technologies.<br>📂 Projects: Check out my repositories for examples of my work, including [specific project names or types, e.g., "e-commerce platforms" or "portfolio websites"].<br>🎯 Learning Goals: I'm always looking to improve my skills and stay updated with the latest trends in web development.</h4>
-
-###
-
-<div align="center">
-  <img height="272" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjd2OTMycmlvdnRuNTZna2Y3NGIyYW4wOHJiaHRkY3RvMGVzNDNkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k81NasbqkKA5HSyJxN/giphy.gif"  />
-</div>
-
-###
-
-<br clear="both">
+<br clear="both" />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img height="272" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjd2OTMycmlvdnRuNTZna2Y3NGIyYW4wOHJiaHRkY3RvMGVzNDNkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k81NasbqkKA5HSyJxN/giphy.gif" alt="Developer gif" />
 </div>
 
-###
+<br clear="both" />
 
+<!-- Tech Skills -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" />
 </div>
 
-###
+<br />
 
-<br clear="both">
-
+<!-- Design Tools -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=xd" height="40" alt="Adobe XD" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="Adobe Illustrator" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Adobe Photoshop" />
+  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="Adobe Premiere Pro" />
+  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="Adobe After Effects" />
 </div>
 
-###
+<br />
 
-<br clear="both">
+<!-- Programming Languages -->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
+</div>
+
+<br />
 
 <h2 align="left">"The only way to do great work is to love what you do." — Steve Jobs</h2>
 
-###
+<br clear="both" />
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Ali-Hegazy-Ai /Ali-Hegazy-Ai /output/snake.svg" alt="Snake animation" />
-
-###
+<!-- Snake Animation (Fix link if broken) -->
+<img src="https://raw.githubusercontent.com/Ali-Hegazy-Ai/Ali-Hegazy-Ai/output/snake.svg" alt="Snake animation" />
