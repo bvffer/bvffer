@@ -1,9 +1,8 @@
 <div align='center'>
 
 
-<h1>Data Engineer</h1>
 
-<a href="https://ibb.co/wNvrYBSj"><img src="https://i.ibb.co/QF5jXpPt/2af13b2078bdcf678f49f813c2d69946.gif" alt="2af13b2078bdcf678f49f813c2d69946" border="0"></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:232526,100:414345&text=Ali%20Hegazy&reversal=true&animation=blink&fontColor=ffffff">
 </div>
 
 
