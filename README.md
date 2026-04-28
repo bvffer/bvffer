@@ -83,16 +83,10 @@ class Ali:
 </div>
 
 
-###
-## `Streak`
 
-
-<p align="center">
-
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-gold-alpha.vercel.app?user=ali-hegazy-ai&theme=dark&border_radius=20" alt="GitHub Streak" />
-  </a>
-</p>
-
+### ` Views`
+<div align='center'>
+![[Profile view counter](https://komarev.com/ghpvc/?username=ali-hegazy-ai)
+</div>
 ###
 
