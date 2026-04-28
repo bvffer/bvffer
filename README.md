@@ -86,7 +86,6 @@ class Ali:
 
 ### ` Views`
 <div align='center'>
-![[Profile view counter](https://komarev.com/ghpvc/?username=ali-hegazy-ai)
+![](https://komarev.com/ghpvc/?username=ali-hegazy-ai&color=green)
 </div>
-###
 
