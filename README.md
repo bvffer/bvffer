@@ -8,8 +8,8 @@
 
 
 
-
 ## `About me`
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ali-hegazy.dev)
 ```python
 class Ali:
     def __init__(self):
