@@ -1,15 +1,11 @@
 <div align='center'>
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:232526,100:414345&text=Ali%20Hegazy&reversal=true&animation=blink&fontColor=ffffff">
+<img src="https://ishan-rest.vercel.app/svg/banner/dev4/ALI">
 </div>
 
-
-
-
 ## `About me`
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ali-hegazy.dev)
+
 ```python
 class Ali:
     def __init__(self):
@@ -39,17 +35,12 @@ class Ali:
         return """
         Always have a plan.
         And always have a backup plan.
-
         Systems fail. Assumptions break.
         Good data engineers are ready before that happens.
         """
-
 ```
-###
-
 
 ## `Toolset`
-
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
@@ -82,6 +73,8 @@ class Ali:
   </a>
 </div>
 
+<div align="center">
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=bvffer&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=bvffer&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark)
 
-
+</div>
