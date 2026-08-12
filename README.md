@@ -1,80 +1,57 @@
-<div align='center'>
-<img src="https://ishan-rest.vercel.app/svg/banner/dev4/ALI">
-</div>
+# bvffer
 
-## `About me`
+> Recruiter-friendly proof and contact path.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ali-hegazy.dev)
+**Theme:** GitHub · **Style:** Detailed · **Agent:** Full-Stack Engineer
 
-```python
-class Ali:
-    def __init__(self):
-        self.name = "Ali"
-        self.role = "Data Engineer"
-        self.location = "Egypt 🇪🇬"
-        self.philosophy = "Build reliable data systems before chasing hype"
-        
-    def current_stack(self):
-        return [
-            "Python",
-            "SQL",
-            "Apache Airflow",
-            "Apache Spark",
-            "PostgreSQL",
-            "Cloud Storage"
-        ]
-    
-    def data_experience(self):
-        return {
-            "pipelines": ["ETL", "ELT", "Batch Processing"],
-            "databases": ["Relational", "Analytical"],
-            "cloud": ["Data Warehousing", "Scalable Storage"]
-        }
-    
-    def what_i_believe(self):
-        return """
-        Always have a plan.
-        And always have a backup plan.
-        Systems fail. Assumptions break.
-        Good data engineers are ready before that happens.
-        """
-```
+## Header
+> Editing this section in the inspector.
+Hi, I'm **bvffer**. This README is tuned for **get hired** with a GitHub visual system.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=bvffer&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=bvffer&theme=github-dark" alt="bvffer hero section" />
+  </picture>
+</p>
+## About Me
+Shapes the short profile story and positioning.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=bvffer&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=bvffer&theme=github-dark" alt="bvffer about section" />
+  </picture>
+</p>
+## Skills
+Selected stack and skill badges will be generated from the GitHub profile and README strategy.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=bvffer&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=bvffer&theme=github-dark" alt="bvffer stack section" />
+  </picture>
+</p>
+## GitHub Stats
+GitSkins stat widgets will use the **GitHub** theme.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=bvffer&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=bvffer&theme=github-dark" alt="bvffer stats section" />
+  </picture>
+</p>
+## Projects
+Highlights repositories as proof of work.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=bvffer&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=bvffer&theme=github-dark" alt="bvffer projects section" />
+  </picture>
+</p>
+## Connect
+Contact and social links will appear here.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=bvffer&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=bvffer&theme=github-dark" alt="bvffer social section" />
+  </picture>
+</p>
 
-## `Toolset`
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" height="40" alt="datagrip logo"  />
-</div>
-
-## `Socials`
-
-<div align="center">
-  <a href="https://x.com/ali_hegazyy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/alihogz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-<div align="center">
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=bvffer&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=bvffer&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark)
-
-</div>
+<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Connect -->
