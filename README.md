@@ -1,100 +1,80 @@
-# bvffer
+<div align='center'>
+<img src="https://ishan-rest.vercel.app/svg/banner/dev4/ALI">
+</div>
 
-> **Data Engineer building reliable pipelines, data warehouses, and production-grade data systems.**
+## `About me`
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=bvffer&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=bvffer&theme=github-dark" alt="bvffer hero section" />
-  </picture>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ali-hegazy.dev)
 
-## About Me
+```python
+class Ali:
+    def __init__(self):
+        self.name = "Ali"
+        self.role = "Data Engineer"
+        self.location = "Egypt 🇪🇬"
+        self.philosophy = "Build reliable data systems before chasing hype"
+        
+    def current_stack(self):
+        return [
+            "Python",
+            "SQL",
+            "Apache Airflow",
+            "Apache Spark",
+            "PostgreSQL",
+            "Cloud Storage"
+        ]
+    
+    def data_experience(self):
+        return {
+            "pipelines": ["ETL", "ELT", "Batch Processing"],
+            "databases": ["Relational", "Analytical"],
+            "cloud": ["Data Warehousing", "Scalable Storage"]
+        }
+    
+    def what_i_believe(self):
+        return """
+        Always have a plan.
+        And always have a backup plan.
+        Systems fail. Assumptions break.
+        Good data engineers are ready before that happens.
+        """
+```
 
-I'm **bvffer**, a data engineer focused on building reliable pipelines and turning raw data into something teams can actually trust.
+## `Toolset`
 
-My interests span **ETL/ELT pipelines, data warehousing, streaming systems, orchestration, and data infrastructure**. I enjoy working across the full data lifecycle, from ingesting and modeling data to building the pipelines and platforms that keep it flowing correctly at scale.
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" height="40" alt="datagrip logo"  />
+</div>
 
-I use GitHub as a record of my work, experimentation, and continuous improvement. The repositories below are intended to show how I approach real data engineering problems through **pipeline design, data modeling, documentation, and shipped projects**.
+## `Socials`
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=bvffer&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=bvffer&theme=github-dark" alt="bvffer about section" />
-  </picture>
-</p>
-
-## Skills
-
-My current stack covers data pipelines, warehousing, orchestration, and the infrastructure that supports them.
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=bvffer&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=bvffer&theme=github-dark" alt="bvffer stack section" />
-  </picture>
-</p>
-
-## Projects
-
-Short examples of how I solve data problems for real business needs.
-
-**01 · [Customer Data Processing Workflow](https://www.ali-hegazy.dev/projects/project-1-user-batch-etl-cli)**
-A data workflow that cleans incoming customer files and stores them in a reliable database.
-[View Project →](https://www.ali-hegazy.dev/projects/project-1-user-batch-etl-cli)
-
-**02 · [Customer Data ETL Pipeline](https://www.ali-hegazy.dev/projects/project-2-customer-data-etl)**
-Extracts customer data from CRM and Excel sources into a unified data warehouse with Docker and CI/CD.
-[View Project →](https://www.ali-hegazy.dev/projects/project-2-customer-data-etl)
-
-**03 · [Cryptocurrency ETL Pipeline](https://www.ali-hegazy.dev/projects/project-3-crypto-etl-pipeline)**
-Collects crypto market data from CoinGecko API, transforms it, and stores it as a historical dataset.
-[View Project →](https://www.ali-hegazy.dev/projects/project-3-crypto-etl-pipeline)
-
-**04 · [Amazon Egypt Product Scraper](https://www.ali-hegazy.dev/projects/project-4-amazon-eg-pipeline)**
-Scrapes product data from Amazon Egypt with rate-limited HTTP fetching and structured CSV output.
-[View Project →](https://www.ali-hegazy.dev/projects/project-4-amazon-eg-pipeline)
-
-**05 · [Weather Data Pipeline with Airflow](https://www.ali-hegazy.dev/projects/project-5-weather-data-airflow)**
-Automated weather data pipeline using Apache Airflow for scheduled extraction, transformation, and loading.
-[View Project →](https://www.ali-hegazy.dev/projects/project-5-weather-data-airflow)
-
-**06 · [X (Twitter) Scraper & Post Analyzer](https://www.ali-hegazy.dev/projects/project-7-x-scraper-analyzer)**
-Collects and analyzes posts from X with sentiment processing for trend insights.
-[View Project →](https://www.ali-hegazy.dev/projects/project-7-x-scraper-analyzer)
-
-## GitHub Stats
-
-A snapshot of my GitHub activity and data engineering work.
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=bvffer&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=bvffer&theme=github-dark" alt="bvffer stats section" />
-  </picture>
-</p>
-
-## Connect
-
-For opportunities, collaboration, technical discussions, or project-related questions, you can reach me through the links below.
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=bvffer&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=bvffer&theme=github-dark" alt="bvffer social section" />
-  </picture>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/alihogz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-alihogz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<div align="center">
+  <a href="https://x.com/ali_hegazyy" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="https://x.com/ctrlzhyaty" target="_blank">
-    <img src="https://img.shields.io/badge/X-ctrlzhyaty-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+  <a href="https://www.linkedin.com/in/alihogz/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.ali-hegazy.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-ali--hegazy.dev-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
-  </a>
-</p>
+</div>
 
-<!-- Sections: Header, About Me, Skills, Projects, GitHub Stats, Connect -->
+<div align="center">
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=bvffer&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=bvffer&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark)
+
+</div>
